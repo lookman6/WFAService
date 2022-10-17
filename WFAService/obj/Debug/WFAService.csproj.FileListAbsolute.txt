@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\WFAService\WFAService\bin\Debug\WFAService.exe.config
+C:\Users\dell\source\repos\WFAService\WFAService\bin\Debug\WFAService.exe
+C:\Users\dell\source\repos\WFAService\WFAService\bin\Debug\WFAService.pdb
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.Form1.resources
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.Properties.Resources.resources
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.exe
+C:\Users\dell\source\repos\WFAService\WFAService\obj\Debug\WFAService.pdb
